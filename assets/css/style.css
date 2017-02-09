@@ -1,0 +1,12 @@
+body, html {
+	margin: 0 auto;
+	height: 100%;
+	width:100%;
+	-webkit-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	font-family: Lato;
+
+	/** position:relative;
+
+}
